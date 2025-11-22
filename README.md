@@ -1,5 +1,6 @@
 # Olá, eu sou Victória Tauanny! 👩‍💻✨
 
+<div align="center">
 <img src="https://i.pinimg.com/originals/b4/1c/9a/b41c9a6623e3c7477000006233377000.gif" width="100%" alt="Space Banner"/>
   <br>
   
