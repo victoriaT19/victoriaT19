@@ -1,4 +1,4 @@
-# Olá, eu sou a Victória Tauanny! 👩‍💻✨
+# Olá, eu sou Victória Tauanny! 👩‍💻✨
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODliNzU1NGExODliNzU1NGExODliNzU1NGExODliNzU1NGExODliNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LmNwrBztM9WDnOGmwD/giphy.gif" width="100%" alt="Space Banner"/>
@@ -15,7 +15,7 @@
 Sou estudante de **Engenharia da Computação** no **CIn - UFPE**. Tenho 19 anos e sou apaixonada por entender como as coisas funcionam "por baixo do capô", desde drivers no Kernel do Linux até algoritmos de Inteligência Artificial.
 
 * 🔭 **Atualmente trabalhando em:** Projetos de Visão Computacional (YOLOv8) e Kernel Modules.
-* 📚 **Estudando:** Cybersecurity, Deep Learning e a matemática por trás de tudo isso.
+* 📚 **Estudando:** Deep Learning e a matemática por trás de tudo isso.
 * 🌌 **Interesses Pessoais:** Astronomia, observar o céu e ler bons livros de fantasia/ficção científica.
 
 ---
@@ -47,7 +47,6 @@ Sou estudante de **Engenharia da Computação** no **CIn - UFPE**. Tenho 19 anos
 | 🐧 **Linux Char Driver** | Driver de caractere desenvolvido para Linux (APS 6). | `C`, `Kernel` |
 | 📷 **Thermal Vision** | Detecção de anomalias com câmera térmica InfiRay e YOLOv8. | `Python`, `AI` |
 | 🚗 **Car Evaluation** | Classificador Naive Bayes para avaliação de veículos. | `Pandas`, `Sklearn` |
-| 🛡️ **Cybersec Labs** | Soluções de desafios de Path Traversal e segurança (pwn.college). | `Security` |
 
 ---
 
@@ -55,11 +54,11 @@ Sou estudante de **Engenharia da Computação** no **CIn - UFPE**. Tenho 19 anos
   <a href="mailto:vtps@cin.ufpe.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="LINK_DO_SEU_LINKEDIN">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5](https://www.linkedin.com/in/victoria-tauanny/)?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/victoria-tauanny/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <p align="center">
-  <i>"I solemnly swear that I am up to no good." ⚡</i>
+  <i>"Fire and Blood." 🔥</i>
 </p>
