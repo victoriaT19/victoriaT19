@@ -1,9 +1,6 @@
 # Olá, eu sou Victória Tauanny! 👩‍💻✨
 
 <div align="center">
-<img src="https://media.giphy.com/media/1iAQLpW2DR5Ngsu4/giphy.gif" width="100%" alt="Game of Thrones Banner"/>
-  <br>
-  
   ![Victória's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoriaT19&show_icons=true&theme=radical&hide_border=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaT19&layout=compact&theme=radical&hide_border=true)
 </div>
