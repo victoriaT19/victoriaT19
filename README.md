@@ -1,7 +1,6 @@
 # Olá, eu sou Victória Tauanny! 👩‍💻✨
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODliNzU1NGExODliNzU1NGExODliNzU1NGExODliNzU1NGExODliNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LmNwrBztM9WDnOGmwD/giphy.gif" width="100%" alt="Space Banner"/>
+<img src="https://i.pinimg.com/originals/b4/1c/9a/b41c9a6623e3c7477000006233377000.gif" width="100%" alt="Space Banner"/>
   <br>
   
   ![Victória's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoriaT19&show_icons=true&theme=radical&hide_border=true)
