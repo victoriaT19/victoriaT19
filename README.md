@@ -1,7 +1,7 @@
 # Olá, eu sou Victória Tauanny! 👩‍💻✨
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/b4/1c/9a/b41c9a6623e3c7477000006233377000.gif" width="100%" alt="Space Banner"/>
+<img src="https://media.giphy.com/media/1iAQLpW2DR5Ngsu4/giphy.gif" width="100%" alt="Game of Thrones Banner"/>
   <br>
   
   ![Victória's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoriaT19&show_icons=true&theme=radical&hide_border=true)
@@ -24,6 +24,7 @@ Sou estudante de **Engenharia da Computação** no **CIn - UFPE**. Tenho 19 anos
 
 **Linguagens & Core:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Assembly](https://img.shields.io/badge/Assembly-5E5E5E?style=for-the-badge&logo=intel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
