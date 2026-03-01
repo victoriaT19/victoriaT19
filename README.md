@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante de **Engenharia da Computação** no **CIn - UFPE**. Tenho 19 anos e sou apaixonada por entender como as coisas funcionam "por baixo do capô", desde drivers no Kernel do Linux até algoritmos de Inteligência Artificial.
+Sou estudante de **Engenharia da Computação** no **CIn - UFPE**. Tenho 19 anos e sou apaixonada por entender como as coisas funcionam, desde drivers no Kernel do Linux até algoritmos de Inteligência Artificial.
 
 * 🔭 **Atualmente trabalhando em:** Projetos de Visão Computacional (YOLOv8) e Kernel Modules.
 * 📚 **Estudando:** Cybersecurity, Deep Learning e a matemática por trás de tudo isso.
