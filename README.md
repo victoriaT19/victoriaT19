@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Victória's GitHub Stats]((https://awesome-github-stats.azurewebsites.net/user-stats/victoriaT19?cardType=github&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card))
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/victoriaT19?cardType=github&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaT19&layout=compact&theme=radical&hide_border=true)
   
 </div>
