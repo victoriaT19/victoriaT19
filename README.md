@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 
-em construção 
+Portfolio: https://victoriat19.github.io 
 
 ### 🛠️ Tech Stack
 
