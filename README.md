@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 
-Estudante de Engenharia da Computação no CIn/UFPE, em Recife. Hoje meu foco é IA: agentes com LLMs, fine-tuning e avaliação de modelos. Também faço iniciação científica em redes 5G (CIn/Motorola), já escrevi firmware para o carro elétrico da Formula SAE e faço jogos.
+Estudante de Engenharia da Computação no CIn/UFPE. Trabalho principalmente com inteligência artificial, mas gosto de construir de tudo: de firmware e sistemas a jogos.
 
 🌐 **Portfólio:** [projetos de IA](https://victoriat19.github.io/ai/) · [jogos e sistemas](https://victoriat19.github.io)
 
