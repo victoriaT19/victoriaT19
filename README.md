@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 
-Estudante de Engenharia da Computação no CIn/UFPE. Trabalho principalmente com inteligência artificial, mas gosto de construir de tudo: de firmware e sistemas a jogos.
+Estudante de Engenharia da Computação no CIn/UFPE. Gosto de construir de tudo: jogos, inteligência artificial, firmware e sistemas.
 
 🌐 **Portfólio:** [projetos de IA](https://victoriat19.github.io/ai/) · [jogos e sistemas](https://victoriat19.github.io)
 
