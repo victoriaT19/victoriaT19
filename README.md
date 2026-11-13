@@ -10,10 +10,9 @@
 
 ### 🚀 Sobre Mim
 
-Estudante de Engenharia da Computação no CIn/UFPE. Construo coisas com LLMs (agentes com ferramentas, fine-tuning, profilers) e meço se elas funcionam: sempre contra uma referência simples, sem vazamento de dados e com o resultado escrito mesmo quando é negativo. Também faço iniciação científica em redes 5G (CIn/Motorola), escrevi firmware para o carro elétrico da Formula SAE e faço jogos.
+Estudante de Engenharia da Computação no CIn/UFPE, em Recife. Hoje meu foco é IA: agentes com LLMs, fine-tuning e avaliação de modelos. Também faço iniciação científica em redes 5G (CIn/Motorola), já escrevi firmware para o carro elétrico da Formula SAE e faço jogos.
 
-🤖 **Projetos de IA, um por página:** [victoriat19.github.io/ai](https://victoriat19.github.io/ai/)<br>
-🎮 **Jogos, sistemas e hardware:** [victoriat19.github.io](https://victoriat19.github.io)
+🌐 **Portfólio:** [projetos de IA](https://victoriat19.github.io/ai/) · [jogos e sistemas](https://victoriat19.github.io)
 
 ---
 
@@ -59,6 +58,7 @@ Estudante de Engenharia da Computação no CIn/UFPE. Construo coisas com LLMs (a
 
 **Outros:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
