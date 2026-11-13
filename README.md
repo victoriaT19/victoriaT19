@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-**Computer Engineering @ CIn/UFPE · Games · Artificial Intelligence · Embedded Systems**
+**Computer Engineering @CIn/UFPE · Games · Artificial Intelligence · Embedded Systems**
 
 🌐 **Portfolio:** [games & systems](https://victoriat19.github.io) · [AI projects](https://victoriat19.github.io/ai/)
 
