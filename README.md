@@ -10,11 +10,20 @@
 
 ### 🚀 Sobre Mim
 
-Estudante de Engenharia da Computação no CIn/UFPE. Gosto de construir de tudo: jogos, inteligência artificial, firmware e sistemas.
+**Engenharia da Computação @ CIn/UFPE · Jogos · Inteligência Artificial · Sistemas embarcados**
 
-🌐 **Portfólio:** [projetos de IA](https://victoriat19.github.io/ai/) · [jogos e sistemas](https://victoriat19.github.io)
+🌐 **Portfólio:** [jogos e sistemas](https://victoriat19.github.io) · [projetos de IA](https://victoriat19.github.io/ai/)
 
 ---
+
+### 🎮 Jogos
+
+| Projeto | O que é | Tech |
+| :--- | :--- | :--- |
+| 🚪 **[3:33](https://vtauanny19.itch.io/333)** | Terror curto em primeira pessoa com visual de PlayStation 1, feito para a GoedWare Halloween Game Jam: uma batida na porta às 3:33 e uma regra, não abrir. Jogável no navegador. | `Unity`, `C#`, `WebGL` |
+| 🖥️ **[Bipe Informática](https://github.com/victoriaT19/bipe-informatica)** | Jogo de diagnóstico numa assistência técnica de PCs dos anos 90: ouvir os bipes da placa-mãe, testar peças e descobrir o defeito. Bipes da BIOS sintetizados em código. | `Unity 6`, `C#` |
+| 🎸 **[Guitar Hero on FPGA](https://github.com/victoriaT19/guitar_hero_fpga)** | Jogo de ritmo numa placa DE2i-150, lendo botões e displays do FPGA por um driver PCI para Linux, com editor de músicas. | `C++`, `Verilog`, `Linux` |
+| 👾 **[Jogo de Introdução à Programação](https://github.com/victoriaT19/PROJETO_IP)** | Jogo 2D em C feito em equipe de 4, meu primeiro projeto de software em grupo. | `C` |
 
 ### 🤖 Projetos em IA
 
@@ -31,8 +40,6 @@ Estudante de Engenharia da Computação no CIn/UFPE. Gosto de construir de tudo:
 | Projeto | Descrição | Tech |
 | :--- | :--- | :--- |
 | 🔋 **[Battery Management System](https://github.com/victoriaT19/Battery-Management-System)** | Firmware do BMS do carro elétrico da Formula SAE (Capibarib-E Racing). | `C`, `STM32` |
-| 🎸 **[Guitar Hero on FPGA](https://github.com/victoriaT19/guitar_hero_fpga)** | Jogo de ritmo numa placa DE2i-150, com driver PCI para Linux. | `C++`, `Verilog`, `Linux` |
-| 🖥️ **[Bipe Informática](https://github.com/victoriaT19/bipe-informatica)** | Jogo de diagnóstico de PCs numa assistência técnica dos anos 90. | `C#`, `Unity` |
 | 🧵 **[PintOS](https://github.com/victoriaT19/PintOS)** | Escalonador de threads para o kernel do PintOS. | `C`, `OS` |
 
 ---
